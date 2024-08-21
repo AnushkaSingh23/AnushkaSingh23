@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnushkaSingh23
+- 👋 Hi, I’m Anushka Singh
 - 👀 I’m interested in Python , C and JAVA
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on small parts of projects
 
 <!---
