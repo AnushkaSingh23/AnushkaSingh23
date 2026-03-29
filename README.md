@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushka Singh
 - 👀 I’m interested in Python , C and JAVA
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning a variety of topics like cloud computing and machine learning
 - 💞️ I’m looking to collaborate on small parts of projects
 
 <!---
